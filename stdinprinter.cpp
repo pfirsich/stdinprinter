@@ -4,6 +4,7 @@
 #include <cstdio>
 #include <string_view>
 #include <vector>
+#include <string>
 
 #include <sys/ioctl.h>
 #include <termios.h>
